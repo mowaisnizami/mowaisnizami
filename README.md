@@ -4,12 +4,13 @@
 
 I turn model and device capabilities into dependable software: the user workflow, TypeScript application, APIs, PostgreSQL data, security boundaries, automation, and production delivery.
 
-- **Product stack:** Angular, React, TypeScript, Node.js, NestJS, PostgreSQL
+- **Product stack:** Angular, React, TypeScript, Node.js, Express/EJS, NestJS, PostgreSQL
 - **Applied AI:** Whisper, Mistral NeMo, Ollama, local LLMs, hosted AI APIs
 - **Automation:** n8n, webhooks, WhatsApp integrations, business workflows
 - **Connected systems:** IoT, GPS/GNSS, remote monitoring, digital signage
 - **Delivery:** Docker, Linux, Jenkins, GitHub Actions, CI/CD, self-hosting
 - **Security:** RBAC, 2FA, input validation, human review, safe writes
+- **Commerce:** Stripe and Moyasar payments, WordPress themes/plugins, WooCommerce email templates
 
 ## Selected engineering work
 
@@ -19,6 +20,8 @@ I turn model and device capabilities into dependable software: the user workflow
 | **Voice → clinical records** | Whisper STT plus Mistral NeMo database-key matching inside a Hospital Management System | Professional case study; proprietary code excluded |
 | **FleetGuard GPS** | ESP32-C3, GNSS, cellular telemetry, NestJS/PostGIS, Angular, and Ionic | In development |
 | **Savings Calculator** | Separated Angular frontend and NestJS API | [Frontend](https://github.com/mowaisnizami/savings-calculator-ng) · [API](https://github.com/mowaisnizami/savings-calculator-nest) |
+
+Earlier freelance delivery included Express/EJS applications, Stripe integrations, custom WordPress themes/plugins, debugging, and WooCommerce email-template work for remote clients.
 
 ## How I approach AI products
 
